@@ -1,9 +1,9 @@
 ### Greetings, i'm Yann Berthelot aka Eygodon 
 
-#### Reach me by : 
+### Reach me by : 
 * <a href="mailto:yann.bth1@gmail.com">Mail :mailbox:</a>
 * Discord Eygodon#5609
-#### I love :
+### I love :
 * Game jams :computer:
 * Video games :video_game:
 * Stats :chart_with_upwards_trend:
