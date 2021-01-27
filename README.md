@@ -8,8 +8,8 @@
 * Video games :video_game:
 * Stats :chart_with_upwards_trend:
 ## GithubStats
-[![Eygodon's github stats](https://github-readme-stats.vercel.app/api?username=eygodon&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/eygodon/github-readme-stats)
+[![Eygodon's github stats](https://github-readme-stats.vercel.app/api?username=Eygodon&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/Eygodon/github-readme-stats)
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eygodon&theme=dark)](https://github.com/eygodon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eygodon&theme=dark)](https://github.com/Eygodon/github-readme-stats)
 ## Wakatime this week
-[![Eygodon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eygodon)](https://github.com/Eygodon/github-readme-stats)
+[![Eygodon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon)](https://github.com/Eygodon/github-readme-stats)
