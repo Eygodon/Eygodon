@@ -1,10 +1,12 @@
-Greetings, i'm Yann Berthelot aka Eygodon
+### Greetings, i'm Yann Berthelot aka Eygodon 
+
+Reach me by : 
+* <a href="mailto:yann.bth1@gmail.com">Mail</a>
+* Discord Eygodon#5609
+
 ## GithubStats
 [![Eygodon's github stats](https://github-readme-stats.vercel.app/api?username=eygodon&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/eygodon/github-readme-stats)
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eygodon&theme=dark)](https://github.com/eygodon/github-readme-stats)
 ## Wakatime this week
 [![Eygodon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon)](https://github.com/eygodon/github-readme-stats)
-
-
-
