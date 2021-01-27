@@ -12,4 +12,4 @@
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eygodon&theme=dark)](https://github.com/eygodon/github-readme-stats)
 ## Wakatime this week
-[![Eygodon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon)](https://github.com/eygodon/github-readme-stats)
+[![Eygodon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eygodon)](https://github.com/Eygodon/github-readme-stats)
