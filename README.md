@@ -12,5 +12,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eygodon&theme=tokyonight&layout=compact)](https://github.com/Eygodon/github-readme-stats)
 ## Wakatime this week
 [![Eygodon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon)](https://github.com/Eygodon/github-readme-stats)
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=Eygodon)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Eygodon)
 
