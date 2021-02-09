@@ -9,7 +9,11 @@
 * Stats :chart_with_upwards_trend:
 ## GithubStats
 [![Eygodon's github stats](https://github-readme-stats.vercel.app/api?username=Eygodon&count_private=true&show_icons=true&theme=prussian)](https://github.com/Eygodon/github-readme-stats)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eygodon&theme=tokyonight&layout=compact)](https://github.com/Eygodon/github-readme-stats)
+<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Wakatime this week
 [![Eygodon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon)](https://github.com/Eygodon/github-readme-stats)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Eygodon)
