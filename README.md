@@ -13,10 +13,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eygodon&theme=tokyonight&layout=compact)](https://github.com/Eygodon/github-readme-stats)
 <br/>
 
-<p align="center>
-          
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Eygodon" />          
-
+<p align="center>       
+<img alig src="https://github-profile-trophy.vercel.app/?username=eygodon&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
           
 ## Wakatime this week
