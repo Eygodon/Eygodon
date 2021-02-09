@@ -12,7 +12,7 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eygodon&theme=tokyonight&layout=compact)](https://github.com/Eygodon/github-readme-stats)
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=eygodon-ma&theme=onedark)](https://github.com/eygodon/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eygodon-ma&theme=onedark)](https://github.com/Eygodon/github-profile-trophy)
 
 ## Wakatime this week
 [![Eygodon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon)](https://github.com/Eygodon/github-readme-stats)
