@@ -12,6 +12,13 @@ Skills: HTML / Java / JS / CSS / PHP / C
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yann-berthelot-aa9158155/)  
 
 ### My Github usage
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true&theme=dark"/></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eygodon&theme=dark"</td>
+  </tr>
+</table>
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true&theme=dark)  
 <br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eygodon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
