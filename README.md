@@ -7,8 +7,7 @@ Skills: HTML / Java / JS / CSS / PHP / C
 
 - 🌱 I’m currently learning Android studio 
 - 💬 Ask me about Video games and stats 
-
-
+### Reach me on discord Eygodon#5609 or :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eygodon) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yann-berthelot-aa9158155/)  
 
