@@ -1,28 +1,24 @@
 ### Greetings, i'm Yann Berthelot aka Eygodon 
 
-### Reach me by : 
-* <a href="mailto:yann.bth1@gmail.com">Mail :mailbox:</a>
-* Discord Eygodon#5609
-### I love :
-* Game jams :computer:
-* Video games :video_game:
-* Stats :chart_with_upwards_trend:
-## GithubStats
-[![Eygodon's github stats](https://github-readme-stats.vercel.app/api?username=Eygodon&count_private=true&show_icons=true&theme=dark)](https://github.com/Eygodon/github-readme-stats)
-<br />
+#### I am a student at Université de Poitiers
+I want to work in Cyber security but the dev hell is attracting me more and more
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eygodon&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-          
-## Wakatime this week
-[![Eygodon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon&theme=dark)](https://github.com/Eygodon/github-readme-stats)
-<br/>
-- uses: lowlighter/metrics@latest
-  with:
-    plugin_wakatime: yes                                      # (🚧 @master feature)
-    plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
-    plugin_wakatime_days: 7                                   # Display last week stats
-    plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
-    plugin_wakatime_limit: 4                                  # Show 4 entries per graph
-<br/>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Eygodon)
+Skills: HTML / Java / JS / CSS / PHP / C  
 
+- 🌱 I’m currently learning Android studio 
+- 💬 Ask me about Video games and stats 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eygodon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yann-berthelot-aa9158155/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eygodon)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Eygodon)  
+
+![GitHub metrics](https://metrics.lecoq.io/Eygodon)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Eygodon)  
+
+![Profile views](https://gpvc.arturio.dev/Eygodon)  
