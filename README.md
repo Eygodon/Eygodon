@@ -19,7 +19,7 @@ Skills: HTML / Java / JS / CSS / PHP / C
 <br />
 ![GitHub metrics](https://metrics.lecoq.io/Eygodon)  
 <br />
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Eygodon)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Eygodon&theme=dark)  
 
 ### Wakatime section
 
