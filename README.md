@@ -15,7 +15,7 @@ Skills: HTML / Java / JS / CSS / PHP / C
 ### My Github usage
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true&theme=dark)  
 <br />
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eygodon&theme=oneDark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eygodon&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 ![GitHub metrics](https://metrics.lecoq.io/Eygodon)  
 <br />
