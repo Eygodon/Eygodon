@@ -15,7 +15,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eygodon-ma&theme=onedark)](https://github.com/Eygodon/github-profile-trophy)
 
 ## Wakatime this week
-[![Eygodon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon)](https://github.com/Eygodon/github-readme-stats)
+[![Eygodon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon)](https://github.com/ryo-ma/github-readme-stats)
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Eygodon)
 
