@@ -24,6 +24,6 @@ Skills: HTML / Java / JS / CSS / PHP / C
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true&theme=dark&count_private=true" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon&theme=dark" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon&theme=dark&layout=compact" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/Eygodon)  
