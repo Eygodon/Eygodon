@@ -1,6 +1,6 @@
 ### Greetings, i'm Yann Berthelot aka Eygodon 
 
-#### I am a student at Université de Poitiers
+#### I am a computer science student
 I want to work in Cyber security but the dev hell is attracting me more and more
 
 Skills: HTML / Java / JS / CSS / PHP / C  
@@ -21,9 +21,10 @@ Skills: HTML / Java / JS / CSS / PHP / C
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Eygodon&theme=dark)  
 
 ### Wakatime section
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true&theme=dark&count_private=true" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon&theme=dark&layout=compact" /></p>
-
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true&theme=dark&count_private=true" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon&theme=dark&layout=compact" /></td>
+  </tr>
+</table>
 ![Profile views](https://gpvc.arturio.dev/Eygodon)  
