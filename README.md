@@ -15,7 +15,7 @@
 
 <p align="center>
           
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Eygodon)](https://github.com/ryo-ma/github-profile-trophy)          
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Eygodon"          
 
 </p>
           
