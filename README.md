@@ -18,14 +18,12 @@ Skills: HTML / Java / JS / CSS / PHP / C
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eygodon&theme=dark"</td>
   </tr>
 </table>
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true&theme=dark)  
-<br />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eygodon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 ![GitHub metrics](https://metrics.lecoq.io/Eygodon)  
 <br />
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Eygodon&theme=dark)  
+
 
 ### Wakatime section
 <table>
