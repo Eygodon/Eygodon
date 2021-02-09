@@ -21,9 +21,9 @@ Skills: HTML / Java / JS / CSS / PHP / C
 <p>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Eygodon&theme=onedark"/>
 </p>
-<p>
+
 ![GitHub metrics](https://metrics.lecoq.io/Eygodon)  
-</p>
+
 
 
 ### Wakatime section
