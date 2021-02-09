@@ -15,7 +15,7 @@
 
 <p align="center>
           
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Eygodon"/>          
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Eygodon" />          
 
 </p>
           
