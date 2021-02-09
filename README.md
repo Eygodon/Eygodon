@@ -15,12 +15,10 @@ Skills: HTML / Java / JS / CSS / PHP / C
 <table>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true&theme=dark"/></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eygodon&theme=dark"</td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eygodon&theme=dark"/></td>
   </tr>
 </table>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eygodon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Eygodon&theme=onedark"/>
 ![GitHub metrics](https://metrics.lecoq.io/Eygodon)  
 <br />
 
