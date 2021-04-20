@@ -14,8 +14,7 @@ Skills: HTML / Java / JS / CSS / PHP / C
 ### My Github usage
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true&theme=dark"/></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eygodon&theme=dark"/></td>
+ <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true&theme=dark&count_private=true" /></td>    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eygodon&theme=dark"/></td>
   </tr>
 </table>
 
@@ -27,11 +26,7 @@ Skills: HTML / Java / JS / CSS / PHP / C
 
 
 ### Wakatime section
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eygodon&show_icons=true&theme=dark&count_private=true" /></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon&theme=dark&layout=compact" /></td>
-  </tr>
-</table>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eygodon&theme=dark&layout=compact" /></td>
+
 
 ![Profile views](https://gpvc.arturio.dev/Eygodon)  
